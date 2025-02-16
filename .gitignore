@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# duplicated files in ProjectProporsal/lib
+./ProjectProporsal/scripts/lib/scripts/*
